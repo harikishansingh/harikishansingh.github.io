@@ -15,11 +15,14 @@ export default function Home() {
                                 Experienced Warehouse Manager with 18+ years in Pharma warehouse and stores management, presently serving as Warehouse Officer at Mission Pharma Logistics (I) Pvt Ltd. Proven expertise in directing operations, optimizing processes, and ensuring quality assurance. Skilled in recruitment, training, and scheduling for production needs. A resourceful leader with a focus on maximizing space utilization, implementing automation, and ensuring compliance with quality standards. Proficient in online IT packages and bar-code operations. Strong communicator adept at boosting morale and efficiency through constructive feedback.
                             </p>
                             <div className="mt-8">
-                                <a href='blob:https://github.com/abd85707-0ca9-4510-a5e1-8e72f396bf4d' download
-                                    className="rounded-md bg-black px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black "
+                                <a
+                                    href="https://raw.githubusercontent.com/harikishansingh/harikishansingh.github.io/main/src/assets/cv.pdf"
+                                    download
+                                    className="rounded-md bg-black px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-black/80 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-black"
                                 >
                                     Download CV
                                 </a>
+
                             </div>
                         </div>
                     </div>
