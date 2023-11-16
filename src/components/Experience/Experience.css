@@ -1,0 +1,23 @@
+/* Add these styles to your Tailwind CSS file or style block */
+
+.timeline-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.timeline-item {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.timeline-content {
+    background-color: #FFFBFF;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px 2px rgba(0, 0, 0, 0.135);
+}
+
+.timeline-content h6 {
+    color: #333;
+}
